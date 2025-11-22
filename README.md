@@ -6,7 +6,7 @@
 
 🔗 Live Demo
 
-👉 Website:https://v0-scoop-delight-website.vercel.app/
+👉 Website:https://v0-learn-mate-web-app.vercel.app/
 
 👉 GitHub Repository: https://github.com/Sandhiyamrs/learn-mate-web-app.git
 
@@ -27,28 +27,28 @@
 ## 📸 Project Screenshots
 
 ### 🏠 Home Page
-[(image Home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/home.jpg)
+[(image Home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Home.jpg)
 
-### ⚙ Explore flavors Page
-[(image explore flavors.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/explore-flavors.jpg)
+### ⚙ About Page
+[(image About.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/About.jpg)
 
-### 🎨 login Page
-[(image login.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/login.jpg)
+### 🎨 Login Page
+[(image Login.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Login.jpg)
 
-### ⚙ featured scoops Page
-[(image featured scoops.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/featured-scoops.jpg)
+### ⚙ Start Page
+[(image Start.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Start.jpg)
 
-### ⚙ scoops brands Page
-[(image scoops brands.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/scoops-brands.jpg)
+### ⚙ Topics Page
+[(image Topics.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Topics.jpg)
 
-### ⚙ Cart Page
-[(image cart.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/cart.jpg)
+### ⚙ Test Page
+[(image Test.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Test.jpg)
 
-### ⚙ place order Page
-[(image place order.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/place-order.jpg)
+### ⚙ Test-Result Page
+[(image Test-Result.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Test-Result.jpg)
 
-### ⚙ order confirmation Page
-[(image order-confirmation.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/Project-IceCreamwebsite/main/assets/order-confirmation.jpg)
+### ⚙ Rewards Page
+[(image Rewards.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Rewards.jpg)
 
 ---
 
@@ -60,8 +60,8 @@
 ---
 
 ## 🚀 Live Demo
-🍨 **Experience Scoop Delight here:**  
-👉 [Live on Vercel](https://v0-scoop-delight-website.vercel.app/)
+🍨 **Experience learn-mate-web-app:**  
+👉 [Live on Vercel](https://v0-learn-mate-web-app.vercel.app/)
 
 ---
 👩‍💻 Author : Sandhiya M
