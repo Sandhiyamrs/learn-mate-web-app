@@ -27,28 +27,46 @@
 ## 📸 Project Screenshots
 
 ### 🏠 Home Page
-[(image Home.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Home.jpg)
+<p align="center">
+  <img src="assets/Home.jpg" width="800"/>
+</p>
 
-### ⚙ About Page
-[(image About.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/About.jpg)
 
 ### 🎨 Login Page
-[(image Login.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Login.jpg)
+<p align="center">
+  <img src="assets/Login.jpg" width="800"/>
+</p>
+
 
 ### ⚙ Start Page
-[(image Start.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Start.jpg)
+<p align="center">
+  <img src="assets/Start.jpg" width="800"/>
+</p>
+
 
 ### ⚙ Topics Page
-[(image Topics.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Topics.jpg)
+<p align="center">
+  <img src="assets/Topics.jpg" width="800"/>
+</p>
+
 
 ### ⚙ Test Page
-[(image Test.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Test.jpg)
+<p align="center">
+  <img src="assets/Test.jpg" width="800"/>
+</p>
+
 
 ### ⚙ Test-Result Page
-[(image Test-Result.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Test-Result.jpg)
+<p align="center">
+  <img src="assets/Test-Result.jpg" width="800"/>
+</p>
+
 
 ### ⚙ Rewards Page
-[(image Rewards.jpg)](https://raw.githubusercontent.com/Sandhiyamrs/learn-mate-web-app/main/assets/Rewards.jpg)
+<p align="center">
+  <img src="assets/Rewards.jpg" width="800"/>
+</p>
+
 
 ---
 
